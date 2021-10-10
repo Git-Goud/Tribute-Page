@@ -1,9 +1,9 @@
-#Tribute Page
-##Via FreeCodeCamp.Org
--First Repo push 10/9/21
+#Tribute Page#
+Project from FreeCodeCamp.Org
+-Started 10/9/21
 -Completed 10/9/21
 ---------------------------
-===The Full list of user stories to pass test===
+ ##The Full list of user stories to pass test##
 *User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
 *User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
